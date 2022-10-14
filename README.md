@@ -11,14 +11,14 @@
 Install the dependencies
 
 ```bash
-npm i -D eslint @piktew/eslint-node
+npm i -D eslint @piktew/eslint-config-node
 ```
 
 Create a `.eslintrc` file extending the config:
 
 ```bash
 {
-  "extends": "@piktew/eslint-node"
+  "extends": "@piktew/eslint-config-node"
 }
 ```
 
@@ -29,14 +29,14 @@ Create a `.eslintrc` file extending the config:
 Install the dependencies
 
 ```bash
-npm i -D eslint @piktew/eslint-react
+npm i -D eslint @piktew/eslint-config-react
 ```
 
 Create a `.eslintrc` file extending the config:
 
 ```bash
 {
-  "extends": "@piktew/eslint-react"
+  "extends": "@piktew/eslint-config-react"
 }
 ```
 
