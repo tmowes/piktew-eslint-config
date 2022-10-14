@@ -10,9 +10,9 @@
 
 ## PikTew ESLint config for node/ts projects
 
-- Airbnb config base;
-- SonarJS plugin;
-- Prettier;
+- Airbnb config base
+- SonarJS plugin
+- Prettier
 
 ## ⚙️ Setup for node projects
 
